@@ -1,0 +1,10 @@
+:root {
+  --main-link-color: #61dafb;
+  --header-bg-color: rgba(128, 128, 128, 0.645);
+  --main-text-color: #423d3d;
+}
+
+.App {
+  text-align: center;
+  position: relative;
+}

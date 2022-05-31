@@ -1,0 +1,16 @@
+.main-content {
+    background-color: #282c34;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      font-size: calc(10px + 2vmin);
+      width: 100vw;
+      color: white;
+      flex-wrap: wrap;
+      padding: 160px 30px 60px;
+  }
+  .loading {
+    padding-top: 100px;
+    height: 100%;
+    color: var(--header-bg-color);
+  }
